@@ -8,7 +8,7 @@ markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
 url: https://heliumjk.github.io
-baseurl: "/heliumjk.github.io"
+baseurl: "/adaline02.github.io"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -21,8 +21,8 @@ google_ad_client: ca-pub-9204963049240271
 post_limit: 5
 
 
-title : Helium Jekyll
-tagline: Bootstrap 4 UI kit for jekyll
+title : Club Fire
+tagline: The Hangout Server
 author : 
   name : Antonio Trento
   site: https://lantoniotrento.github.io
